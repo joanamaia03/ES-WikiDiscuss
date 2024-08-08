@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "348219318790",
+    "project_id": "wiki-discuss-v1",
+    "storage_bucket": "wiki-discuss-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348219318790:android:4753938bef49fb052fd987",
+        "android_client_info": {
+          "package_name": "com.example.wiki_discuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348219318790-h8bonn2ol79og79b1oq5d59buq2nah1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOytOuuAVa-HYa4pyh7JkLgaOYjknRbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348219318790-h8bonn2ol79og79b1oq5d59buq2nah1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348219318790-s8qevgofpc517iukh9rumlnrahh9gacd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wikiDiscuss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
